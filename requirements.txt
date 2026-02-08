@@ -1,0 +1,17 @@
+openai
+SpeechRecognition
+pyaudio
+pvporcupine
+sounddevice
+numpy
+pywin32
+PySide6
+pyautogui
+pyperclip
+psutil
+requests
+pywhatkit
+chromadb
+selenium
+webdriver-manager
+pywinauto
